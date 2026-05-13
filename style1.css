@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    margin-top: 0;
+}
+h1{
+    text-align: center;
+
+}
+
+h2{text-align: center;
+color: rgba(114, 49, 9, 0.853);}
+.main{
+background-color: rgb(72, 7, 7);
+height: 110vh;
+
+}
+.b1{
+    background-image: url(WhatsApp\ Image\ 2026-05-06\ at\ 11.11.10\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    background-attachment: none;
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+}
+.b2{
+
+}

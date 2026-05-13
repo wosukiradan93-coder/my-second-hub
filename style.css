@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #808080;
+    
+    padding: 0%;
+    margin: 0%;
+     overflow: hidden;
+}
+.navbar a{
+    color:blueviolet;
+    text-decoration: none;
+    padding: 20px;
+    display:block;
+    text-align: center;
+}
+.navbar li{
+    float: left;}
+.container{
+    background-image: url(WhatsApp\ Image\ 2026-05-06\ at\ 11.11.12.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    justify-content: space-around;
+}
+.box1{
+    height: 200px;
+}
